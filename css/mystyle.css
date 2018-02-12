@@ -1,0 +1,32 @@
+img{
+    width: 15%;
+    height: 15%;
+    position: relative;
+    top: 5em;
+    left:1em;
+}
+#about{
+    padding-left: 2em;
+    color: white;
+}
+.navbar-header{
+    color:black
+}
+#name{
+    color: black
+}
+#embeded{
+    width:560;
+    height:315;
+}
+body{
+    color: rgb(170, 26, 26);
+}
+footer{
+    bottom:px;
+    width:100%;
+}
+#submit{
+    color:rgb(158, 9, 9);
+}
+
